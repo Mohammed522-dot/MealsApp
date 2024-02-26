@@ -1,0 +1,2 @@
+com/codingwithmitch/mvvmrecipeapp/test/BuildConfig.java
+ com.codingwithmitch.mvvmrecipeapp.test.BuildConfig

@@ -1,0 +1,392 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/joker/.gradle/caches/transforms-3/8bfc6e584f546a10d636e8447e7a356c/transformed/ui-tooling-1.1.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-compose:1.3.1] /home/joker/.gradle/caches/transforms-3/7f9dfc698fa1a691f2afc6bffadf0298/transformed/activity-compose-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/500c92a513869ad5be08b06a13e9a306/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/91ec8b7c81d9ba108f662911e6141a39/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/ca4a2d28263f2080710e9bbaa59eaafe/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/joker/.gradle/caches/transforms-3/78331e2fcaf5af0b4ff313c7c3a4a638/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/joker/.gradle/caches/transforms-3/77f9c966f17e882b84da90a49630af36/transformed/activity-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/3cb92ffd164379bf57b77919e7683150/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /home/joker/.gradle/caches/transforms-3/87074fe127316d49908f4701658a9150/transformed/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.ui:ui-tooling:1.0.0-alpha07] /home/joker/.gradle/caches/transforms-3/0a6c206f9796555a2fdd2021123fb68a/transformed/ui-tooling-1.0.0-alpha07/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.runtime:runtime-livedata:1.0.2] /home/joker/.gradle/caches/transforms-3/1bb7529287353a61aec1da18baaf689d/transformed/runtime-livedata-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-rxjava2:1.0.2] /home/joker/.gradle/caches/transforms-3/c7c62bf09ad9ba81c8096300f8e08511/transformed/runtime-rxjava2-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /home/joker/.gradle/caches/transforms-3/5127aa5468145d39d34d99a80db741ca/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.0.2] /home/joker/.gradle/caches/transforms-3/077159ea9ae8df1efa8531fc063c4272/transformed/material-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-extended:1.0.2] /home/joker/.gradle/caches/transforms-3/4e832e44336c7e6275d0fb0f2a6e03af/transformed/material-icons-extended-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.0.2] /home/joker/.gradle/caches/transforms-3/4c6b5745639927c39b2c1bdb54f196ce/transformed/material-icons-core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /home/joker/.gradle/caches/transforms-3/a79d8346dc951fbc96e8281b73718875/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.0.2] /home/joker/.gradle/caches/transforms-3/a3dc28a874383160313998a3b05f2e26/transformed/material-ripple-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.0.2] /home/joker/.gradle/caches/transforms-3/d766234a8ee5ae0a22325b455eb63dd5/transformed/foundation-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /home/joker/.gradle/caches/transforms-3/d0ee3b1ea327e89d2954924ccf81ddff/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/joker/.gradle/caches/transforms-3/1e1a2906de2297de03cacc41d813ebfa/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.2] /home/joker/.gradle/caches/transforms-3/b47d26429f61d9225663794033838343/transformed/foundation-layout-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/joker/.gradle/caches/transforms-3/41d14138cedf991a50d13ee9efe80b04/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.1] /home/joker/.gradle/caches/transforms-3/ff8a474e17663a8366cd15f25d89c1cd/transformed/ui-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /home/joker/.gradle/caches/transforms-3/242576d281a84339fe02e7ccadd96260/transformed/ui-text-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/joker/.gradle/caches/transforms-3/4c5fb6b39c6cdbb713bcdc2d8383b16d/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /home/joker/.gradle/caches/transforms-3/6e1216b0e6b66165e3f98d479d75babd/transformed/ui-graphics-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /home/joker/.gradle/caches/transforms-3/068bc696bf4b7312d6022b0f86da2365/transformed/ui-unit-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /home/joker/.gradle/caches/transforms-3/2e790a2519f075afb48a144fe2b7fc4f/transformed/ui-geometry-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /home/joker/.gradle/caches/transforms-3/afde52357004b762798ee7ae307ef5f8/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /home/joker/.gradle/caches/transforms-3/bdb7de62b890891195d797281f98d9da/transformed/ui-util-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/joker/.gradle/caches/transforms-3/a49962a3ea88cd724cd4d1f910588420/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/joker/.gradle/caches/transforms-3/64511953e53516ccc9d14ef901dc331a/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/joker/.gradle/caches/transforms-3/3a0f3c2743bca9afc59a53fb9ebbc4a0/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/joker/.gradle/caches/transforms-3/d95ff95d504a06fb1b3a82d74ef18cc9/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/joker/.gradle/caches/transforms-3/347f3ace4b7dc9bda9bb0f98aaf264e3/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /home/joker/.gradle/caches/transforms-3/ab43dd09627737b48eac14bcff6233ad/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/joker/.gradle/caches/transforms-3/80eb2addc6b1d6658d58833cdd880bd5/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/joker/.gradle/caches/transforms-3/3e4887dfe6099ba1e94e62c935b0cad7/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /home/joker/.gradle/caches/transforms-3/03fafd040943b057898f795e1a41a2d3/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.37] /home/joker/.gradle/caches/transforms-3/9707564baf2919f5cc848d3da19dce0f/transformed/hilt-android-2.37/AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/joker/.gradle/caches/transforms-3/1243a87f94416d2209bdc20dcbee12ee/transformed/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/joker/.gradle/caches/transforms-3/161ea19f61121e4b60e3edbe77fae2e9/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/joker/.gradle/caches/transforms-3/5af289c632f637ff7afb0d7cad4cc96b/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/joker/.gradle/caches/transforms-3/b24918eaae3434255ad364e29a064fa6/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/joker/.gradle/caches/transforms-3/69daaeff7a2e64ae684e6c8fa8718efb/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/joker/.gradle/caches/transforms-3/c1fd4329dc179508cb59239a177991c4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/joker/.gradle/caches/transforms-3/a972aaab3f0204c90e769ecdce035c0c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/joker/.gradle/caches/transforms-3/60a2643c9a65f4b509d5d5154fb735eb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/joker/.gradle/caches/transforms-3/adad45427b13a8b645b623be8c2951eb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/joker/.gradle/caches/transforms-3/5f7bd04bced31157f9f416e9f61db730/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/joker/.gradle/caches/transforms-3/9b1dd3713e0d16be04a181592fe82ee7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/joker/.gradle/caches/transforms-3/4e12bf66f03b092848b866def3a425b0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/joker/.gradle/caches/transforms-3/d8de64433b02fe118b65d88759a27881/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/joker/.gradle/caches/transforms-3/980420ef3700657c83b379c1cf86274d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/joker/.gradle/caches/transforms-3/f8d95e61335e1520da3d38eed6cae296/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] /home/joker/.gradle/caches/transforms-3/cdb00e7af7fa72f004b7299693a3b0c4/transformed/activity-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/joker/.gradle/caches/transforms-3/d9f0fa1607926f07652f99421119318f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/joker/.gradle/caches/transforms-3/9cdd95b86ec2894980f0c9f777c307c5/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/joker/.gradle/caches/transforms-3/cb24d358dccaa1be77f1b0bb133b1cfb/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/joker/.gradle/caches/transforms-3/410ac7018234f960de30f3b124ca3cb1/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /home/joker/.gradle/caches/transforms-3/e01d696e8b60b80f8045ebee64a35c9c/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/joker/.gradle/caches/transforms-3/566bcd626892e6eac946b02dbfa1ce81/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/joker/.gradle/caches/transforms-3/954ccf221de25de7db7bb0571af8a968/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/joker/.gradle/caches/transforms-3/6e19777c0c9f989cf9cccfff20d168f1/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/joker/.gradle/caches/transforms-3/320e7ba72b884a9c434d0cdad89176b4/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/joker/.gradle/caches/transforms-3/dd3a0f1b13e903efac8eac6ff2b11713/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/joker/.gradle/caches/transforms-3/5f3851cf1c1165326c515870cebc8be0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/joker/.gradle/caches/transforms-3/b561ccd57a03a166a372c39b88631597/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/joker/.gradle/caches/transforms-3/c5ef252c21dbeb3e9e36f6bc607fd86e/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/joker/.gradle/caches/transforms-3/b739465443a658abde6dfd1acc7f6dda/transformed/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/joker/.gradle/caches/transforms-3/f94089054c0263664b9a605f115159d8/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joker/.gradle/caches/transforms-3/0bdb3950c5d73627ed9a2fdb2add90ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/joker/.gradle/caches/transforms-3/d720e5673b5005a789bc08537eb045ae/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joker/.gradle/caches/transforms-3/a05614b19958812caea1819b830f7db2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/joker/.gradle/caches/transforms-3/ab37fa76528020214ccc0c6c7f649c53/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/joker/.gradle/caches/transforms-3/3b8a6317e25dac3aaca815601521386a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/joker/.gradle/caches/transforms-3/1943efc1d9f28da43c6cc2e66b80b20b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/joker/.gradle/caches/transforms-3/5be087140db96af82e0b4c62114c3d09/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/joker/.gradle/caches/transforms-3/e29ebbd45a246049bc2193090fe0fb5d/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/joker/.gradle/caches/transforms-3/664d452bcd48bae72991853e8a52493b/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.37] /home/joker/.gradle/caches/transforms-3/fc656a67b35cb65cb7a02e4dd00970cf/transformed/dagger-lint-aar-2.37/AndroidManifest.xml:16:1-19:12
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/joker/.gradle/caches/transforms-3/8bfc6e584f546a10d636e8447e7a356c/transformed/ui-tooling-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/joker/.gradle/caches/transforms-3/8bfc6e584f546a10d636e8447e7a356c/transformed/ui-tooling-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.ui:ui-tooling:1.0.0-alpha07] /home/joker/.gradle/caches/transforms-3/0a6c206f9796555a2fdd2021123fb68a/transformed/ui-tooling-1.0.0-alpha07/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.ui:ui-tooling:1.0.0-alpha07] /home/joker/.gradle/caches/transforms-3/0a6c206f9796555a2fdd2021123fb68a/transformed/ui-tooling-1.0.0-alpha07/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] /home/joker/.gradle/caches/transforms-3/ab43dd09627737b48eac14bcff6233ad/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/joker/.gradle/caches/transforms-3/ab43dd09627737b48eac14bcff6233ad/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/joker/.gradle/caches/transforms-3/80eb2addc6b1d6658d58833cdd880bd5/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/joker/.gradle/caches/transforms-3/80eb2addc6b1d6658d58833cdd880bd5/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/joker/.gradle/caches/transforms-3/1243a87f94416d2209bdc20dcbee12ee/transformed/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/joker/.gradle/caches/transforms-3/1243a87f94416d2209bdc20dcbee12ee/transformed/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.6.0] /home/joker/.gradle/caches/transforms-3/e01d696e8b60b80f8045ebee64a35c9c/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/joker/.gradle/caches/transforms-3/e01d696e8b60b80f8045ebee64a35c9c/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/joker/.gradle/caches/transforms-3/b739465443a658abde6dfd1acc7f6dda/transformed/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/joker/.gradle/caches/transforms-3/b739465443a658abde6dfd1acc7f6dda/transformed/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joker/.gradle/caches/transforms-3/0bdb3950c5d73627ed9a2fdb2add90ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joker/.gradle/caches/transforms-3/0bdb3950c5d73627ed9a2fdb2add90ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joker/.gradle/caches/transforms-3/a05614b19958812caea1819b830f7db2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joker/.gradle/caches/transforms-3/a05614b19958812caea1819b830f7db2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/joker/.gradle/caches/transforms-3/e01d696e8b60b80f8045ebee64a35c9c/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:8:9-53
+activity#com.codingwithmitch.mvvmrecipeapp.presentation.MainActivity
+ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:exported
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:15:19-93
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/joker/.gradle/caches/transforms-3/8bfc6e584f546a10d636e8447e7a356c/transformed/ui-tooling-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/joker/.gradle/caches/transforms-3/8bfc6e584f546a10d636e8447e7a356c/transformed/ui-tooling-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /home/joker/.gradle/caches/transforms-3/7f9dfc698fa1a691f2afc6bffadf0298/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /home/joker/.gradle/caches/transforms-3/7f9dfc698fa1a691f2afc6bffadf0298/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/500c92a513869ad5be08b06a13e9a306/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/500c92a513869ad5be08b06a13e9a306/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/91ec8b7c81d9ba108f662911e6141a39/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/91ec8b7c81d9ba108f662911e6141a39/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/ca4a2d28263f2080710e9bbaa59eaafe/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/ca4a2d28263f2080710e9bbaa59eaafe/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/joker/.gradle/caches/transforms-3/78331e2fcaf5af0b4ff313c7c3a4a638/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/joker/.gradle/caches/transforms-3/78331e2fcaf5af0b4ff313c7c3a4a638/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/joker/.gradle/caches/transforms-3/77f9c966f17e882b84da90a49630af36/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/joker/.gradle/caches/transforms-3/77f9c966f17e882b84da90a49630af36/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/3cb92ffd164379bf57b77919e7683150/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/joker/.gradle/caches/transforms-3/3cb92ffd164379bf57b77919e7683150/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/joker/.gradle/caches/transforms-3/87074fe127316d49908f4701658a9150/transformed/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/joker/.gradle/caches/transforms-3/87074fe127316d49908f4701658a9150/transformed/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.ui:ui-tooling:1.0.0-alpha07] /home/joker/.gradle/caches/transforms-3/0a6c206f9796555a2fdd2021123fb68a/transformed/ui-tooling-1.0.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-tooling:1.0.0-alpha07] /home/joker/.gradle/caches/transforms-3/0a6c206f9796555a2fdd2021123fb68a/transformed/ui-tooling-1.0.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-livedata:1.0.2] /home/joker/.gradle/caches/transforms-3/1bb7529287353a61aec1da18baaf689d/transformed/runtime-livedata-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-livedata:1.0.2] /home/joker/.gradle/caches/transforms-3/1bb7529287353a61aec1da18baaf689d/transformed/runtime-livedata-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-rxjava2:1.0.2] /home/joker/.gradle/caches/transforms-3/c7c62bf09ad9ba81c8096300f8e08511/transformed/runtime-rxjava2-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-rxjava2:1.0.2] /home/joker/.gradle/caches/transforms-3/c7c62bf09ad9ba81c8096300f8e08511/transformed/runtime-rxjava2-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /home/joker/.gradle/caches/transforms-3/5127aa5468145d39d34d99a80db741ca/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /home/joker/.gradle/caches/transforms-3/5127aa5468145d39d34d99a80db741ca/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.2] /home/joker/.gradle/caches/transforms-3/077159ea9ae8df1efa8531fc063c4272/transformed/material-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.2] /home/joker/.gradle/caches/transforms-3/077159ea9ae8df1efa8531fc063c4272/transformed/material-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.0.2] /home/joker/.gradle/caches/transforms-3/4e832e44336c7e6275d0fb0f2a6e03af/transformed/material-icons-extended-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.0.2] /home/joker/.gradle/caches/transforms-3/4e832e44336c7e6275d0fb0f2a6e03af/transformed/material-icons-extended-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.2] /home/joker/.gradle/caches/transforms-3/4c6b5745639927c39b2c1bdb54f196ce/transformed/material-icons-core-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.2] /home/joker/.gradle/caches/transforms-3/4c6b5745639927c39b2c1bdb54f196ce/transformed/material-icons-core-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /home/joker/.gradle/caches/transforms-3/a79d8346dc951fbc96e8281b73718875/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /home/joker/.gradle/caches/transforms-3/a79d8346dc951fbc96e8281b73718875/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.2] /home/joker/.gradle/caches/transforms-3/a3dc28a874383160313998a3b05f2e26/transformed/material-ripple-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.2] /home/joker/.gradle/caches/transforms-3/a3dc28a874383160313998a3b05f2e26/transformed/material-ripple-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.2] /home/joker/.gradle/caches/transforms-3/d766234a8ee5ae0a22325b455eb63dd5/transformed/foundation-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.2] /home/joker/.gradle/caches/transforms-3/d766234a8ee5ae0a22325b455eb63dd5/transformed/foundation-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /home/joker/.gradle/caches/transforms-3/d0ee3b1ea327e89d2954924ccf81ddff/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /home/joker/.gradle/caches/transforms-3/d0ee3b1ea327e89d2954924ccf81ddff/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/joker/.gradle/caches/transforms-3/1e1a2906de2297de03cacc41d813ebfa/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/joker/.gradle/caches/transforms-3/1e1a2906de2297de03cacc41d813ebfa/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.2] /home/joker/.gradle/caches/transforms-3/b47d26429f61d9225663794033838343/transformed/foundation-layout-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.2] /home/joker/.gradle/caches/transforms-3/b47d26429f61d9225663794033838343/transformed/foundation-layout-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/joker/.gradle/caches/transforms-3/41d14138cedf991a50d13ee9efe80b04/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/joker/.gradle/caches/transforms-3/41d14138cedf991a50d13ee9efe80b04/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] /home/joker/.gradle/caches/transforms-3/ff8a474e17663a8366cd15f25d89c1cd/transformed/ui-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] /home/joker/.gradle/caches/transforms-3/ff8a474e17663a8366cd15f25d89c1cd/transformed/ui-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /home/joker/.gradle/caches/transforms-3/242576d281a84339fe02e7ccadd96260/transformed/ui-text-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /home/joker/.gradle/caches/transforms-3/242576d281a84339fe02e7ccadd96260/transformed/ui-text-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/joker/.gradle/caches/transforms-3/4c5fb6b39c6cdbb713bcdc2d8383b16d/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/joker/.gradle/caches/transforms-3/4c5fb6b39c6cdbb713bcdc2d8383b16d/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /home/joker/.gradle/caches/transforms-3/6e1216b0e6b66165e3f98d479d75babd/transformed/ui-graphics-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /home/joker/.gradle/caches/transforms-3/6e1216b0e6b66165e3f98d479d75babd/transformed/ui-graphics-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /home/joker/.gradle/caches/transforms-3/068bc696bf4b7312d6022b0f86da2365/transformed/ui-unit-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /home/joker/.gradle/caches/transforms-3/068bc696bf4b7312d6022b0f86da2365/transformed/ui-unit-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /home/joker/.gradle/caches/transforms-3/2e790a2519f075afb48a144fe2b7fc4f/transformed/ui-geometry-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /home/joker/.gradle/caches/transforms-3/2e790a2519f075afb48a144fe2b7fc4f/transformed/ui-geometry-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /home/joker/.gradle/caches/transforms-3/afde52357004b762798ee7ae307ef5f8/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /home/joker/.gradle/caches/transforms-3/afde52357004b762798ee7ae307ef5f8/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /home/joker/.gradle/caches/transforms-3/bdb7de62b890891195d797281f98d9da/transformed/ui-util-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /home/joker/.gradle/caches/transforms-3/bdb7de62b890891195d797281f98d9da/transformed/ui-util-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/joker/.gradle/caches/transforms-3/a49962a3ea88cd724cd4d1f910588420/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/joker/.gradle/caches/transforms-3/a49962a3ea88cd724cd4d1f910588420/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/joker/.gradle/caches/transforms-3/64511953e53516ccc9d14ef901dc331a/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/joker/.gradle/caches/transforms-3/64511953e53516ccc9d14ef901dc331a/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/joker/.gradle/caches/transforms-3/3a0f3c2743bca9afc59a53fb9ebbc4a0/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/joker/.gradle/caches/transforms-3/3a0f3c2743bca9afc59a53fb9ebbc4a0/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/joker/.gradle/caches/transforms-3/d95ff95d504a06fb1b3a82d74ef18cc9/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/joker/.gradle/caches/transforms-3/d95ff95d504a06fb1b3a82d74ef18cc9/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/joker/.gradle/caches/transforms-3/347f3ace4b7dc9bda9bb0f98aaf264e3/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/joker/.gradle/caches/transforms-3/347f3ace4b7dc9bda9bb0f98aaf264e3/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /home/joker/.gradle/caches/transforms-3/ab43dd09627737b48eac14bcff6233ad/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/joker/.gradle/caches/transforms-3/ab43dd09627737b48eac14bcff6233ad/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/joker/.gradle/caches/transforms-3/80eb2addc6b1d6658d58833cdd880bd5/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/joker/.gradle/caches/transforms-3/80eb2addc6b1d6658d58833cdd880bd5/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/joker/.gradle/caches/transforms-3/3e4887dfe6099ba1e94e62c935b0cad7/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/joker/.gradle/caches/transforms-3/3e4887dfe6099ba1e94e62c935b0cad7/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /home/joker/.gradle/caches/transforms-3/03fafd040943b057898f795e1a41a2d3/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /home/joker/.gradle/caches/transforms-3/03fafd040943b057898f795e1a41a2d3/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.37] /home/joker/.gradle/caches/transforms-3/9707564baf2919f5cc848d3da19dce0f/transformed/hilt-android-2.37/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.37] /home/joker/.gradle/caches/transforms-3/9707564baf2919f5cc848d3da19dce0f/transformed/hilt-android-2.37/AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/joker/.gradle/caches/transforms-3/1243a87f94416d2209bdc20dcbee12ee/transformed/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/joker/.gradle/caches/transforms-3/1243a87f94416d2209bdc20dcbee12ee/transformed/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/joker/.gradle/caches/transforms-3/161ea19f61121e4b60e3edbe77fae2e9/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/joker/.gradle/caches/transforms-3/161ea19f61121e4b60e3edbe77fae2e9/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/joker/.gradle/caches/transforms-3/5af289c632f637ff7afb0d7cad4cc96b/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/joker/.gradle/caches/transforms-3/5af289c632f637ff7afb0d7cad4cc96b/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/joker/.gradle/caches/transforms-3/b24918eaae3434255ad364e29a064fa6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/joker/.gradle/caches/transforms-3/b24918eaae3434255ad364e29a064fa6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/joker/.gradle/caches/transforms-3/69daaeff7a2e64ae684e6c8fa8718efb/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/joker/.gradle/caches/transforms-3/69daaeff7a2e64ae684e6c8fa8718efb/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/joker/.gradle/caches/transforms-3/c1fd4329dc179508cb59239a177991c4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/joker/.gradle/caches/transforms-3/c1fd4329dc179508cb59239a177991c4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/joker/.gradle/caches/transforms-3/a972aaab3f0204c90e769ecdce035c0c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/joker/.gradle/caches/transforms-3/a972aaab3f0204c90e769ecdce035c0c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/joker/.gradle/caches/transforms-3/60a2643c9a65f4b509d5d5154fb735eb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/joker/.gradle/caches/transforms-3/60a2643c9a65f4b509d5d5154fb735eb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/joker/.gradle/caches/transforms-3/adad45427b13a8b645b623be8c2951eb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/joker/.gradle/caches/transforms-3/adad45427b13a8b645b623be8c2951eb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/joker/.gradle/caches/transforms-3/5f7bd04bced31157f9f416e9f61db730/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/joker/.gradle/caches/transforms-3/5f7bd04bced31157f9f416e9f61db730/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/joker/.gradle/caches/transforms-3/9b1dd3713e0d16be04a181592fe82ee7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/joker/.gradle/caches/transforms-3/9b1dd3713e0d16be04a181592fe82ee7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/joker/.gradle/caches/transforms-3/4e12bf66f03b092848b866def3a425b0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/joker/.gradle/caches/transforms-3/4e12bf66f03b092848b866def3a425b0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/joker/.gradle/caches/transforms-3/d8de64433b02fe118b65d88759a27881/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/joker/.gradle/caches/transforms-3/d8de64433b02fe118b65d88759a27881/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/joker/.gradle/caches/transforms-3/980420ef3700657c83b379c1cf86274d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/joker/.gradle/caches/transforms-3/980420ef3700657c83b379c1cf86274d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/joker/.gradle/caches/transforms-3/f8d95e61335e1520da3d38eed6cae296/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/joker/.gradle/caches/transforms-3/f8d95e61335e1520da3d38eed6cae296/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /home/joker/.gradle/caches/transforms-3/cdb00e7af7fa72f004b7299693a3b0c4/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /home/joker/.gradle/caches/transforms-3/cdb00e7af7fa72f004b7299693a3b0c4/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/joker/.gradle/caches/transforms-3/d9f0fa1607926f07652f99421119318f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/joker/.gradle/caches/transforms-3/d9f0fa1607926f07652f99421119318f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/joker/.gradle/caches/transforms-3/9cdd95b86ec2894980f0c9f777c307c5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/joker/.gradle/caches/transforms-3/9cdd95b86ec2894980f0c9f777c307c5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/joker/.gradle/caches/transforms-3/cb24d358dccaa1be77f1b0bb133b1cfb/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/joker/.gradle/caches/transforms-3/cb24d358dccaa1be77f1b0bb133b1cfb/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/joker/.gradle/caches/transforms-3/410ac7018234f960de30f3b124ca3cb1/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/joker/.gradle/caches/transforms-3/410ac7018234f960de30f3b124ca3cb1/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/joker/.gradle/caches/transforms-3/e01d696e8b60b80f8045ebee64a35c9c/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/joker/.gradle/caches/transforms-3/e01d696e8b60b80f8045ebee64a35c9c/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/joker/.gradle/caches/transforms-3/566bcd626892e6eac946b02dbfa1ce81/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/joker/.gradle/caches/transforms-3/566bcd626892e6eac946b02dbfa1ce81/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/joker/.gradle/caches/transforms-3/954ccf221de25de7db7bb0571af8a968/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/joker/.gradle/caches/transforms-3/954ccf221de25de7db7bb0571af8a968/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/joker/.gradle/caches/transforms-3/6e19777c0c9f989cf9cccfff20d168f1/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/joker/.gradle/caches/transforms-3/6e19777c0c9f989cf9cccfff20d168f1/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/joker/.gradle/caches/transforms-3/320e7ba72b884a9c434d0cdad89176b4/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/joker/.gradle/caches/transforms-3/320e7ba72b884a9c434d0cdad89176b4/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/joker/.gradle/caches/transforms-3/dd3a0f1b13e903efac8eac6ff2b11713/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/joker/.gradle/caches/transforms-3/dd3a0f1b13e903efac8eac6ff2b11713/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/joker/.gradle/caches/transforms-3/5f3851cf1c1165326c515870cebc8be0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/joker/.gradle/caches/transforms-3/5f3851cf1c1165326c515870cebc8be0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/joker/.gradle/caches/transforms-3/b561ccd57a03a166a372c39b88631597/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/joker/.gradle/caches/transforms-3/b561ccd57a03a166a372c39b88631597/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/joker/.gradle/caches/transforms-3/c5ef252c21dbeb3e9e36f6bc607fd86e/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/joker/.gradle/caches/transforms-3/c5ef252c21dbeb3e9e36f6bc607fd86e/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/joker/.gradle/caches/transforms-3/b739465443a658abde6dfd1acc7f6dda/transformed/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/joker/.gradle/caches/transforms-3/b739465443a658abde6dfd1acc7f6dda/transformed/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/joker/.gradle/caches/transforms-3/f94089054c0263664b9a605f115159d8/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/joker/.gradle/caches/transforms-3/f94089054c0263664b9a605f115159d8/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joker/.gradle/caches/transforms-3/0bdb3950c5d73627ed9a2fdb2add90ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joker/.gradle/caches/transforms-3/0bdb3950c5d73627ed9a2fdb2add90ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/joker/.gradle/caches/transforms-3/d720e5673b5005a789bc08537eb045ae/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/joker/.gradle/caches/transforms-3/d720e5673b5005a789bc08537eb045ae/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joker/.gradle/caches/transforms-3/a05614b19958812caea1819b830f7db2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joker/.gradle/caches/transforms-3/a05614b19958812caea1819b830f7db2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/joker/.gradle/caches/transforms-3/ab37fa76528020214ccc0c6c7f649c53/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/joker/.gradle/caches/transforms-3/ab37fa76528020214ccc0c6c7f649c53/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/joker/.gradle/caches/transforms-3/3b8a6317e25dac3aaca815601521386a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/joker/.gradle/caches/transforms-3/3b8a6317e25dac3aaca815601521386a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/joker/.gradle/caches/transforms-3/1943efc1d9f28da43c6cc2e66b80b20b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/joker/.gradle/caches/transforms-3/1943efc1d9f28da43c6cc2e66b80b20b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/joker/.gradle/caches/transforms-3/5be087140db96af82e0b4c62114c3d09/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/joker/.gradle/caches/transforms-3/5be087140db96af82e0b4c62114c3d09/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/joker/.gradle/caches/transforms-3/e29ebbd45a246049bc2193090fe0fb5d/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/joker/.gradle/caches/transforms-3/e29ebbd45a246049bc2193090fe0fb5d/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/joker/.gradle/caches/transforms-3/664d452bcd48bae72991853e8a52493b/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/joker/.gradle/caches/transforms-3/664d452bcd48bae72991853e8a52493b/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.37] /home/joker/.gradle/caches/transforms-3/fc656a67b35cb65cb7a02e4dd00970cf/transformed/dagger-lint-aar-2.37/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.37] /home/joker/.gradle/caches/transforms-3/fc656a67b35cb65cb7a02e4dd00970cf/transformed/dagger-lint-aar-2.37/AndroidManifest.xml:18:3-42
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joker/Desktop/projects/MVVMRecipeApp/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /home/joker/.gradle/caches/transforms-3/8bfc6e584f546a10d636e8447e7a356c/transformed/ui-tooling-1.1.1/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /home/joker/.gradle/caches/transforms-3/8bfc6e584f546a10d636e8447e7a356c/transformed/ui-tooling-1.1.1/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /home/joker/.gradle/caches/transforms-3/8bfc6e584f546a10d636e8447e7a356c/transformed/ui-tooling-1.1.1/AndroidManifest.xml:26:13-71
+activity#androidx.ui.tooling.preview.PreviewActivity
+ADDED from [androidx.ui:ui-tooling:1.0.0-alpha07] /home/joker/.gradle/caches/transforms-3/0a6c206f9796555a2fdd2021123fb68a/transformed/ui-tooling-1.0.0-alpha07/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.ui:ui-tooling:1.0.0-alpha07] /home/joker/.gradle/caches/transforms-3/0a6c206f9796555a2fdd2021123fb68a/transformed/ui-tooling-1.0.0-alpha07/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.ui:ui-tooling:1.0.0-alpha07] /home/joker/.gradle/caches/transforms-3/0a6c206f9796555a2fdd2021123fb68a/transformed/ui-tooling-1.0.0-alpha07/AndroidManifest.xml:26:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joker/.gradle/caches/transforms-3/a05614b19958812caea1819b830f7db2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joker/.gradle/caches/transforms-3/a05614b19958812caea1819b830f7db2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/joker/.gradle/caches/transforms-3/9710d6ccac4643409f717a151dbc224a/transformed/profileinstaller-1.1.0/AndroidManifest.xml:43:25-88
