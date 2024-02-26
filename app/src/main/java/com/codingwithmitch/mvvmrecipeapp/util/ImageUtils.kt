@@ -1,5 +1,6 @@
 package com.codingwithmitch.mvvmrecipeapp.util
 
+import android.annotation.SuppressLint
 import android.graphics.Bitmap
 import android.graphics.drawable.Drawable
 import androidx.annotation.DrawableRes
@@ -15,6 +16,7 @@ import kotlinx.coroutines.ExperimentalCoroutinesApi
 
 const val DEFAULT_RECIPE_IMAGE = R.drawable.empty_plate
 
+@SuppressLint("UnrememberedMutableState")
 @ExperimentalCoroutinesApi
 @Composable
 fun loadPicture(url: String, @DrawableRes defaultImage: Int): MutableState<Bitmap?> {
@@ -54,6 +56,7 @@ fun loadPicture(url: String, @DrawableRes defaultImage: Int): MutableState<Bitma
 
 
 
+@SuppressLint("UnrememberedMutableState")
 @ExperimentalCoroutinesApi
 @Composable
 fun loadPicture(@DrawableRes drawable: Int): MutableState<Bitmap?> {

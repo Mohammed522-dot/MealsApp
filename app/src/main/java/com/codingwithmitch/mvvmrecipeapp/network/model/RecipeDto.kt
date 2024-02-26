@@ -6,7 +6,6 @@ data class RecipeDto(
 
         @SerializedName("pk")
         var pk: Int,
-
         @SerializedName("title")
         var title: String,
 

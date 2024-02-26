@@ -19,12 +19,14 @@ import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.constraintlayout.compose.ConstraintLayout
 import com.codingwithmitch.mvvmrecipeapp.presentation.ui.recipe_list.FoodCategory
 import kotlinx.coroutines.launch
 
 @ExperimentalComposeUiApi
+@Preview
 @Composable
 fun SearchAppBar(
     query: String,

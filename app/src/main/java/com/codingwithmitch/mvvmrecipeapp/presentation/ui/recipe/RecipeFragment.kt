@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.ExperimentalMaterialApi
 import androidx.compose.material.Scaffold
 import androidx.compose.material.rememberScaffoldState
+import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.ComposeView
@@ -16,6 +17,7 @@ import androidx.compose.ui.unit.dp
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
+import androidx.ui.tooling.preview.Preview
 import com.codingwithmitch.mvvmrecipeapp.presentation.BaseApplication
 import com.codingwithmitch.mvvmrecipeapp.presentation.components.CircularIndeterminateProgressBar
 import com.codingwithmitch.mvvmrecipeapp.presentation.components.DefaultSnackbar
@@ -54,7 +56,9 @@ class RecipeFragment: Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
+
     ): View {
+
         return ComposeView(requireContext()).apply{
             setContent {
 
